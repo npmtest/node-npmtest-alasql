@@ -1,4 +1,7 @@
-# test coverage for  [alasql (v0.3.9)](https://github.com/agershun/alasql)  [![npm package](https://img.shields.io/npm/v/npmtest-alasql.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alasql) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alasql.svg)](https://travis-ci.org/npmtest/node-npmtest-alasql)
+# npmtest-alasql
+
+#### basic test coverage for  [alasql (v0.3.9)](https://github.com/agershun/alasql)  [![npm package](https://img.shields.io/npm/v/npmtest-alasql.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alasql) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alasql.svg)](https://travis-ci.org/npmtest/node-npmtest-alasql)
+
 #### Versatile SQL database for browser or node. Handles relational data and nested JSON (noSQL). Export to and import from Excel, localStorage or IndexedDB
 
 [![NPM](https://nodei.co/npm/alasql.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/alasql)
